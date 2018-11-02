@@ -1,2 +1,3 @@
-# Zindi-Challenge
-Multi-class prediction 
+Zindi-Challenge
+
+Multi-class prediction
